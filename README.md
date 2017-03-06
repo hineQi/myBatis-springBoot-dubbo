@@ -5,7 +5,7 @@
 - [mapper-spring-boot-starter 1.0.0](https://github.com/abel533/mapper-boot-starter)
 - [pagehelper-spring-boot-starter 1.0.0](https://github.com/pagehelper/pagehelper-spring-boot)
 
-## 项目依赖
+## 项目依赖--
 ```xml
 <!--mybatis-->
 <dependency>
