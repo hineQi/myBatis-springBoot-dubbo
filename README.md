@@ -26,7 +26,7 @@
     <version>1.0.0</version>
 </dependency>
 ```
-![cc](https://cl.ly/1H3m1o1x0U1y)
+![cc](https://d3dr1ze7164817.cloudfront.net/items/1A3Q2u2l420x3A2A2m3X/QQ%E6%88%AA%E5%9B%BE20170306141151.jpg?X-CloudApp-Visitor-Id=2720025&v=a33b5968)
 当使用低版本的 Spring Boot 时（例如 1.3 或更低版本），你还可以尝试 mapper 和 pagehelper starter 的 0.1.0 版本（兼容高版本 Spring Boot）。
 
 ## application.yml 配置
